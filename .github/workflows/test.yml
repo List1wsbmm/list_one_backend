@@ -22,7 +22,7 @@ jobs:
 
     - name: Run pylint
       run: |
-        pylint main.py
+        pylint app
 
     - name: Test application
       run: |
