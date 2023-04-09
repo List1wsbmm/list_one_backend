@@ -18,10 +18,10 @@ Simple Flask app that greets the user by name.
 
 Complete how to start.
 
-Start local environment. You can use command: pip install pipenv and run using: pipenv shell.
-Start new terminal and use command: pip install locust.
-Run locust using command: locust.
-Use the web browser and paste a link: http://localhost:8089.
+1. Start local environment. You can use command: pip install pipenv and run using: pipenv shell.
+2. Start new terminal and use command: pip install locust.
+3. Run locust using command: locust.
+4. Use the web browser and paste a link: http://localhost:8089.
 
 ## License
 
